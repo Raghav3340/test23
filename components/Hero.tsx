@@ -16,7 +16,7 @@ const Hero = () => {
         />
         <h1 className="bold-52 lg:bold-88">Putu tomoeo Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-         testing cache from app
+         changes
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
